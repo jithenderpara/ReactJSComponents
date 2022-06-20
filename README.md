@@ -10,14 +10,14 @@
  
 
     <Tabs
-              isNumber={true}
-              active={0}
-              items={[
-                { heading: "Account Details", text: "Account Setup" },
-                { heading: "Profile Details", text: "Profile Setup" },
-                { heading: "Credit Card details", text: "Belling Setup" },
-              ]}
-            ></Tabs>
+      isNumber={true}
+      active={0}
+      items={[
+        { heading: "Account Details", text: "Account Setup" },
+        { heading: "Profile Details", text: "Profile Setup" },
+        { heading: "Credit Card details", text: "Belling Setup" },
+      ]}
+    ></Tabs>
 
 - Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown);
 - Full-featured: Real-time Preview, Image (cross-domain) upload, Preformatted text/Code blocks/Tables insert, Code fold, Search replace, Read only, Themes, Multi-languages, L18n, HTML entities, Code syntax highlighting...;
